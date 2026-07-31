@@ -1,4 +1,4 @@
-# Hi there, I'm [UNNATI] 👋 🚀
+# Hi there, I'm UNNATI 👋 🚀
 
 <div align="center">
 
