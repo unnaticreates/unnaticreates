@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,31&height=200&section=header&text=Full-Stack%20Developer&fontSize=42&fontColor=ffffff&animation=twinkling)
+![Header Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24,2,31&height=200&section=header&text=UI-UX%20Designer&fontSize=42&fontColor=ffffff&animation=twinkling)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=UI/-UX+Designer;Open+Source+Contributor;Problem+Solver;Tech+Explorer)](https://git.io/typing-svg)
 
